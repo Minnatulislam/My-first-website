@@ -24,15 +24,22 @@ section {
     width: 80%;
 }
 
-.link-button{
+.link-button {
     text-decoration: none;
-    background-image: linear-gradient(rgb(255, 195, 84), rgb(209, 63, 37) );
+    background-image: linear-gradient(rgb(255, 195, 84), rgb(209, 63, 37));
     color: white;
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5px;
 }
-.top-banner{
-    background-image:url(images/top-banner.png);
+
+.top-banner {
+    background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
